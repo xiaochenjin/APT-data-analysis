@@ -1,5 +1,4 @@
-# RECOVER-preliminary
-Preliminary codes for our recently developed APT data analysis tool RECOVER (REtrieving Chemical Ordering Via Explicating Radial distribution funciton)
+Preliminary codes for APT data analysis
 
 # write_data.py
 Convert raw APT data into .txt data file
