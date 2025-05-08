@@ -7,7 +7,7 @@ Convert raw APT data into .txt data file
 Output information of specified species
 
 # select-large-box.py
-Output data within a specified box
+Output data within a specified box (in .xyz format)
 
 # select-multiple-cubes.py
 Divide the box into smaller cubes (e.g, 10x10x10 nm3)
