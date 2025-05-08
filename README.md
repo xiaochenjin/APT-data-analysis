@@ -21,4 +21,5 @@ Compute SDM of all the pairs
 
 # setup.py
 Compile *.pyx into *c and *.so
+<br> 
 python setup.py build_ext --inplace
