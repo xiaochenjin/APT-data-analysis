@@ -12,7 +12,7 @@ Output data within a specified box (in .xyz format)
 # select-multiple-cubes.py
 Divide the box into smaller cubes (e.g, 10x10x10 nm3)
 
-# compute-all-rdf.py and all_pair_rdf*
+# compute-all-rdf.py and pure_rdf*
 Compute RDF of all the pairs
 
 # compute-all-SDM.py and pure_SDM_2*
